@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:feature",
+  "config": {
+    "structure": "betterendisland:tower_initial"
+  }
+}

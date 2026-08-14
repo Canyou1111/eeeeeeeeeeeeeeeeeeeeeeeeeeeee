@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "name": "betterendisland:tower_pool",
+      "elements": [
+        {
+          "element_type": "minecraft:single_pool_element",
+          "location": "betterendisland:tower_initial"
+        },
+        {
+          "element_type": "minecraft:single_pool_element",
+          "location": "betterendisland:tower_broken"
+        }
+      ]
+    }
+  ]
+}
